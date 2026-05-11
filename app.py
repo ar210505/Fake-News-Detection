@@ -191,9 +191,9 @@ st.markdown(
         .stTextArea textarea { min-height: 220px !important; }
     }
     </style>
-    """
-    SECTION-2J1
-    """
+    """,
+    unsafe_allow_html=True,
+)
 
 # 3. Load ML Assets
 
