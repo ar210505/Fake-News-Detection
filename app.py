@@ -246,7 +246,7 @@ with st.sidebar:
     st.write("3. Longer, well-structured content improves accuracy.")
 
 # 5. Header
-st.markdown("<p style='font-family: Space Grotesk; font-size: 1.8rem; color: #13222a; margin-bottom: 0.8rem; letter-spacing: 0.12em; font-weight: 700; border-bottom: 2px solid #d95f43; padding-bottom: 0.5rem;'><strong>SECTION-2J1 | Ayush Raj</strong></p>", unsafe_allow_html=True)
+st.markdown("<p style='font-family: Space Grotesk; font-size: 1.8rem; color: #13222a; margin-bottom: 0.8rem; letter-spacing: 0.12em; font-weight: 700; border-bottom: 2px solid #d95f43; padding-bottom: 0.5rem;'><strong>SECTION-2J1 | Group 10</strong></p>", unsafe_allow_html=True)
 st.markdown("<h1 class='headline'>Fake News Detection Using NLP</h1>", unsafe_allow_html=True)
 st.markdown(
     "<p class='subhead'><strong>Problem:</strong> Fake news spreads rapidly online, misleading users and impacting society.</p>",
