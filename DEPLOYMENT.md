@@ -5,7 +5,7 @@
 ### Step 1: Create GitHub Repository
 1. Go to [github.com/new](https://github.com/new)
 2. Repository name: `FK_NWS_DTCN`
-3. Description: `Fake News Detection Using NLP - SECTION-2I1 Group 10`
+3. Description: `Fake News Detection Using NLP - SECTION-2J1 Ayush Raj`
 4. Choose **Public** (required for free Streamlit Cloud)
 5. **DO NOT** initialize with README (we have one)
 6. Click "Create repository"
@@ -108,4 +108,4 @@ Streamlit Cloud auto-deploys on push! 🎉
 
 **Created:** May 9, 2026  
 **Project:** Fake News Detection Using NLP  
-**Group:** SECTION-2I1 Group 10
+**Group:** SECTION-2J1 Ayush Raj

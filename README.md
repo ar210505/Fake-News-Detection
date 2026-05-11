@@ -1,6 +1,6 @@
 # 📰 Fake News Detection Using NLP
 
-**SECTION-2I1 - Group 10**
+**SECTION-2J1 - Ayush Raj**
 
 A machine learning application that classifies news articles as real or fake using Natural Language Processing techniques.
 
@@ -79,7 +79,7 @@ FK_NWS_DTCN/
 ```
 
 ## Authors
-Group 10 - SECTION-2I1
+Ayush Raj - SECTION-2J1
 
 ## License
 This project is for educational purposes.
