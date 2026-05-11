@@ -1,0 +1,21 @@
+id,text,expected_label
+1,"The city health department announced a free vaccination drive on Monday. Officials said 42 clinics will operate from 9 AM to 5 PM this week, and appointments can be booked through the official municipal website.",REAL
+2,"Doctors have confirmed that drinking hot salt water every hour instantly kills all viruses in the body and makes vaccines unnecessary, according to secret hospital reports.",FAKE
+3,"India's meteorological department issued a rainfall alert for coastal districts, advising residents to avoid low-lying areas and follow district administration updates.",REAL
+4,"Scientists proved gravity is fake in a new study and announced that people can train themselves to float by breathing in a special rhythm for 10 minutes daily.",FAKE
+5,"The Reserve Bank kept the policy rate unchanged in its latest review, citing inflation trends and global economic uncertainty.",REAL
+6,"A new law passed overnight says all students will receive full marks automatically if they forward a government message to 25 contacts before midnight.",FAKE
+7,"According to an official Railway Ministry release, two additional festival special trains will run between Delhi and Patna next week to handle increased passenger demand.",REAL
+8,"Nutrition experts now say vegetables are harmful and that eating only packaged snacks for 30 days improves memory and immunity.",FAKE
+9,"The district collector said road repair work on NH-27 will begin on Friday and may cause temporary diversions between 8 PM and 6 AM.",REAL
+10,"A viral claim says smartphones can detect lies with 100% accuracy by scanning voice vibrations, and police will soon replace investigations with mobile apps.",FAKE
+11,"The state education board released exam results on its official portal and advised students to verify marks using their roll numbers.",REAL
+12,"Meteorologists announced that placing mirrors on rooftops can stop cyclones from entering cities.",FAKE
+13,"The health ministry published updated guidelines for seasonal flu prevention, including hand hygiene and early consultation for symptoms.",REAL
+14,"A social media post claims that all banks will permanently close cash withdrawals next month without any official notification.",FAKE
+15,"Municipal officials began a waste segregation awareness campaign in schools and residential areas this week.",REAL
+16,"Researchers discovered that charging your phone under moonlight doubles battery life instantly.",FAKE
+17,"The transport department announced revised bus routes due to ongoing metro construction in central zones.",REAL
+18,"An online message claims that drinking only energy drinks can replace meals and cure vitamin deficiency.",FAKE
+19,"Police authorities issued an advisory asking citizens to verify job offers and avoid sharing OTPs with unknown callers.",REAL
+20,"A viral video alleges that traffic signals are controlled by satellites from another planet to monitor private conversations.",FAKE
