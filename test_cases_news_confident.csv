@@ -15,7 +15,7 @@ id,text,predicted_label,confidence_percent
 14,"A viral claim says the IPL trophy was made of gold bars and will be awarded to every team equally.",FAKE,57.7
 15,"Experts said IPL players can double their stamina instantly by drinking a secret blue liquid before every game.",FAKE,61.0
 16,"Chennai Super Kings and Mumbai Indians each have five IPL trophies, according to official IPL records.",REAL,60.2
-17,"Royal Challengers Bengaluru have won one IPL trophy so far.",FAKE,55.7
+17,"Royal Challengers Bengaluru have not won an IPL title yet.",REAL,51.1
 18,"Kolkata Knight Riders have won three IPL titles so far.",REAL,60.8
 19,"Royal Challengers Bengaluru have not won any IPL title since the tournament began.",REAL,51.1
-20,"Sunrisers Hyderabad have won one IPL title.",FAKE,55.2
+20,"Sunrisers Hyderabad won the IPL title in 2016.",REAL,51.7
