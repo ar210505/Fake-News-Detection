@@ -1,0 +1,9 @@
+id,text,predicted_label,confidence_percent
+1,"The Reserve Bank kept the policy rate unchanged in its latest review, citing inflation trends and global economic uncertainty.",REAL,60.7
+2,"The Reserve Bank of India kept the policy rate unchanged in its latest review, citing inflation trends and global economic uncertainty.",REAL,61.0
+3,"The health ministry published updated guidelines for seasonal flu prevention, including hand hygiene and early consultation for symptoms.",REAL,61.7
+4,"The city municipal corporation said garbage collection will continue on the revised schedule through the weekend.",REAL,65.5
+5,"A secret government memo says the moon has been sold to a private company and will be closed to tourists next month.",FAKE,66.4
+6,"Experts claim that eating a metal spoon every morning cures diabetes within two days.",FAKE,67.4
+7,"Scientists confirmed that the ocean is made of liquid electricity in a leaked report.",FAKE,61.0
+8,"Scientists proved gravity is fake in a new study and announced that people can train themselves to float by breathing in a special rhythm for 10 minutes daily.",FAKE,72.6
