@@ -7,3 +7,10 @@ id,text,predicted_label,confidence_percent
 6,"Experts claim that eating a metal spoon every morning cures diabetes within two days.",FAKE,67.4
 7,"Scientists confirmed that the ocean is made of liquid electricity in a leaked report.",FAKE,61.0
 8,"Scientists proved gravity is fake in a new study and announced that people can train themselves to float by breathing in a special rhythm for 10 minutes daily.",FAKE,72.6
+9,"The Indian Premier League 2026 schedule was announced on the official website, with the opening match set for Friday evening in Ahmedabad.",REAL,60.3
+10,"The IPL governing council confirmed that the season opener will be played under lights in Ahmedabad after the fixture list was published.",REAL,58.3
+11,"Royal Challengers Bangalore recorded the lowest team total of 49 runs against Kolkata Knight Riders in IPL 2017.",REAL,64.5
+12,"Mumbai Indians won their match by six wickets after chasing the target with two overs remaining in the IPL.",REAL,60.1
+13,"The IPL auction concluded on the official broadcast, and franchises confirmed their final retained players for the new season.",REAL,55.2
+14,"A viral claim says the IPL trophy was made of gold bars and will be awarded to every team equally.",FAKE,57.7
+15,"Experts said IPL players can double their stamina instantly by drinking a secret blue liquid before every game.",FAKE,61.0
